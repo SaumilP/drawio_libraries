@@ -1,6 +1,6 @@
-![](./docs/drawio-logo.png)
+[[docs/drawio-logo.png]]
 
-# drawio-libraries
+# drawio_libraries
 Repository contains built or downloaded few oss ("as-is" version of) draw.io libraries.
 
 ## Overview
@@ -14,10 +14,10 @@ For ease of use, reduce searching and spending time on creating diagrams, this r
 ### Open the library
 1. Once you open Draw.io, select "Open Library" from the "File" Menu 
 
-![](./docs/drawio_open_lib.png)
+[[docs/drawio_open_lib.png]]
 
 2. Open the [DataFlowDiagram_Shapes.xml](DataFlowDiagram_Shapes.xml) file.
 
-![](./docs/dfd_library_snippet.png)
+[[./docs/dfd_library_snippet.png]]
 
-3. Start drawing!
+3. Start adding shapes!
