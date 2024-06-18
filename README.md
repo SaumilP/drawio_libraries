@@ -1,4 +1,4 @@
-![Drawio_libraries](https://github.com/SaumilP/drawio_libraries/blob/main/Docs/drawio-logo.png?raw=true|width=50)
+<img src="https://github.com/SaumilP/drawio_libraries/blob/main/Docs/drawio-logo.png?raw=true" width="100" height="100">
 
 # drawio_libraries
 Repository contains built or downloaded few oss ("as-is" version of) draw.io libraries.
