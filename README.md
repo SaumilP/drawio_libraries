@@ -14,10 +14,10 @@ For ease of use, reduce searching and spending time on creating diagrams, this r
 ### Open the library
 1. Once you open Draw.io, select "Open Library" from the "File" Menu 
 
-![open_libraries](https://github.com/SaumilP/drawio_libraries/blob/main/Docs/drawio_open_lib.png?raw=true)
+<img src="https://github.com/SaumilP/drawio_libraries/blob/main/Docs/drawio_open_lib.png?raw=true" width="300" height="500">
 
 2. Open the [DataFlowDiagram_Shapes.xml](DataFlowDiagram_Shapes.xml) file.
 
-![dfd_library](https://github.com/SaumilP/drawio_libraries/blob/main/Docs/dfd_library_snippet.png?raw=true)
+<img src="https://github.com/SaumilP/drawio_libraries/blob/main/Docs/dfd_library_snippet.png?raw=true" width="250" height="450">
 
 3. Start adding shapes!
