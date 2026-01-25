@@ -71,12 +71,14 @@ Each library is independently usable and versioned.
 ## 🚀 How to Use
 
 ### Option 1: Load a single library
+
 1. Open **draw.io / diagrams.net**
 2. Go to **File → Open Library from → Device**
 3. Select the `.xml` library file
 4. Drag symbols into your diagram
 
 ### Option 2: Use a release pack (recommended)
+
 1. Download a release ZIP from **GitHub Releases**
 2. Extract the libraries
 3. Import one or more `.xml` files into draw.io
@@ -111,23 +113,26 @@ These libraries follow a few strict rules:
 This repository publishes **versioned release packs**.
 
 Each release:
+
 - is tagged (e.g. `v1.0.0`)
 - includes a downloadable ZIP
 - contains stable library definitions
 
-👉 See **GitHub Releases** for downloadable packs.
+👉 See [**GitHub Releases**](https://github.com/SaumilP/drawio_libraries/releases) for downloadable packs.
 
 ---
 
 ## 🤝 Contributing
 
 Contributions are welcome, especially:
+
 - new libraries with clear scope
 - refinements to existing symbols
 - visual consistency improvements
 - documentation and examples
 
 **Contribution guidelines:**
+
 1. Keep symbols **semantic**, not vendor-marketing heavy
 2. Avoid duplicating icons with different names
 3. Prefer fewer, clearer symbols over large icon sets
@@ -137,7 +142,7 @@ Contributions are welcome, especially:
 
 ## 🛣 Roadmap
 
-- [ ] Expand catalog previews
+- [X] Expand catalog previews
 - [ ] Add more C4-aligned symbols
 - [ ] Add example diagrams per library
 - [ ] Provide light/dark theme variants
