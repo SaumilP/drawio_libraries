@@ -5,35 +5,379 @@ Update descriptions and screenshots as you polish the libraries.
 
 ## 📦 Available Libraries
 
-| **Library** | **File** | **Preview** | **Notes** |
-|:---|---|---|---|
-| **Build Pipeline Shapes** | `libraries/Build_Pipeline_Shapes.xml` | ![](screenshots/Build_Pipeline_Shapes.png) | Shapes allowing to build design diagrams for Build Pipelines. |
-| **Dataflowdiagram Limited Shapes** | `libraries/DataFlowDiagram_Limited_Shapes.xml` | ![](screenshots/DataFlowDiagram_Limited_Shapes.png) | Custom Data-flow diagrams shapes. |
-| **Dataflowdiagram Shapes** | `libraries/DataFlowDiagram_Shapes.xml` | ![](screenshots/DataFlowDiagram_Shapes.png) | Another variations of data-flow diagrams related shapes |
-| **Additional Or Support** | `libraries/additional-or-support.xml` | ![](screenshots/additional-or-support.png) | Library contains generic additional shapes for design support. |
-| **Ai Machine Learning** | `libraries/ai-machine-learning.xml` | ![](screenshots/ai-machine-learning.png) | Library contains AI machine learning shapes. |
-| **Any Others** | `libraries/any-others.xml` | ![](screenshots/any-others.png) | Uncategorised shapes. |
-| **Apache Software Foundation Logos** | `libraries/apache-software-foundation-logos.xml` | ![](screenshots/apache-software-foundation.png) | Apache Software foundation shapes. |
-| **Apps And Logos** | `libraries/apps-and-logos.xml` | ![](screenshots/apps-and-logos.png) | Various apps and tools related logos. |
-| **Azure Additional Or Support** | `libraries/azure-additional-or-support.xml` | ![](screenshots/azure-additional-support.png) | Microsoft Azure logos. |
-| **Buildings** | `libraries/buildings.xml` | ![](screenshots/buildings.png) | Library contains building related shapes. |
-| **Chart Icons** | `libraries/chart-icons.xml` | ![](screenshots/chart-icons.png) | Different chart icons. |
-| **Custom Azure** | `libraries/custom-azure.xml` | ![](screenshots/custom-azure.png) | Custom Microsoft Azure icons or tool logos for design. |
-| **Kubernetes** | `libraries/custom-kubernetes.xml` | ![](screenshots/custom-kubernetes.png) | Contains list of custom kubernetes icons. |
-| **Databases** | `libraries/databases.xml` | ![](screenshots/databases.png) | List of various database tools. |
-| **Delivery Icons** | `libraries/delivery-icons.xml` | ![](screenshots/delivery-icons.png) | Contains list of different delivery icons. |
-| **Developer Tools** | `libraries/developer-tools.xml` | ![](screenshots/developer-tools.png) | Contains list of developer tools. |
-| **Devices** | `libraries/devices.xml` | ![](screenshots/devices.png) | Contains list of Devices. |
-| **Flat Color Icons** | `libraries/flat-color-icons.xml` | ![](screenshots/flat-color-icons.png) | Contains list of flat color icons. |
-| **Font Awesome** | `libraries/font-awesome.xml` | ![](screenshots/font-awesome.png) | Various Font Awesome icons. |
-| **Hashicorp Draw Io** | `libraries/hashicorp-draw-io.xml` | ![](screenshots/hashicorp-icons.png) | Contains different Hashicorp tool icons. |
-| **Integration Patterns** | `libraries/integration-patterns.xml` | ![](screenshots/integration-patterns.png) | Contains list of integration patterns related icons. |
-| **Integration** | `libraries/integration.xml` | ![](screenshots/integration.png) | Contains list of integrations related icons. |
-| **Office365** | `libraries/office365.xml` | ![](screenshots/office365.png) | Contains list of Office365 related icons. |
-| **Osa Icons** | `libraries/osa-icons.xml` | ![](screenshots/osa-icons.png) | Contains various OSA icons. |
-| **Power Bi** | `libraries/power-bi.xml` | ![](screenshots/powerbi.png) | Contains list of Power-BI icons. |
-| **Powerapps And Flows** | `libraries/powerapps-and-flows.xml` | ![](screenshots/powerapps-and-flows.png) | Contains list of Power-apps and flows relatd icons. |
-| **Users And Roles** | `libraries/users-and-roles.xml` | ![](screenshots/users-and-roles.png) | Contains list of users and roles related icons for illustration purpose. |
+### Build Pipeline Shapes
+
+**Description**
+
+Symbols for modeling build and CI/CD pipelines, focusing on stages, transitions, and execution flow rather than specific tooling.
+
+**Concise notes**
+
+- Ideal for CI/CD and DevOps diagrams
+- Emphasizes flow and sequencing
+- Tool-agnostic representation
+
+---
+
+### Dataflowdiagram Limited Shapes
+
+**Description**
+
+A minimal set of symbols for expressing data flows between systems, optimized for clarity in high-level diagrams.
+
+**Concise notes**
+
+- Reduced symbol set for simplicity
+- Best for executive or overview diagrams
+- Avoids visual clutter
+
+---
+
+### Dataflowdiagram Shapes
+
+**Description**
+
+A richer collection of data-flow symbols allowing more detailed representation of data movement, transformation, and storage.
+
+**Concise notes**
+
+- More expressive than the limited set
+- Suitable for technical deep dives
+- Useful for ETL and integration flows
+
+---
+
+### Additional Or Support
+
+**Description**
+
+Generic support symbols that complement other libraries, filling common gaps in architectural and design diagrams.
+
+**Concise notes**
+
+- Auxiliary shapes
+- Use alongside primary libraries
+- Not domain-specific
+
+---
+
+### AI Machine Learning
+
+**Description**
+
+Icons representing common AI and machine learning concepts, pipelines, and components used in modern intelligent systems.
+
+**Concise notes**
+
+- Conceptual AI/ML components
+- Suitable for solution overviews
+- Avoids model-specific detail
+
+---
+
+### Any Others
+
+**Description**
+
+A collection of uncategorized or experimental shapes that do not yet belong to a dedicated library.
+
+**Concise notes**
+
+- Catch-all category
+- Review before reuse
+- Candidates for future reclassification
+
+---
+
+### Apache Software Foundation Logos
+
+**Description**
+
+Official and commonly used logos for Apache Software Foundation projects, useful for open-source and platform diagrams.
+
+**Concise notes**
+
+- Product identification only
+- Not architectural primitives
+- Best used sparingly
+
+---
+
+### Apps And Logos
+
+**Description**
+
+A mixed set of application and tool logos intended to visually identify external systems or platforms in diagrams.
+
+**Concise notes**
+
+- Logo-centric
+- Useful for context diagrams
+- Avoid overuse in design-heavy views
+
+### Azure Additional Or Support
+
+**Description**
+
+Supplementary Microsoft Azure symbols that extend core Azure icon sets for more complete cloud diagrams.
+
+**Concise notes**
+
+- Azure-specific extensions
+- Complements standard Azure icons
+- Use for clarity, not completeness
+
+---
+
+### Buildings
+
+**Description**
+
+Physical building and location symbols used to represent offices, data centers, or geographic context.
+
+**Concise notes**
+
+- Physical context modeling
+- Useful in hybrid/on-prem diagrams
+- Non-technical elements
+
+---
+
+### Chart Icons
+
+**Description**
+
+Generic chart and visualization symbols for representing metrics, analytics, and reporting concepts.
+
+**Concise notes**
+
+- Abstract data visualization
+- Not tied to specific tools
+- Works well in dashboards
+
+---
+
+### Custom Azure
+
+**Description**
+
+Custom Azure-related icons and symbols tailored for specific design or documentation needs beyond standard icon packs.
+
+**Concise notes**
+
+- Non-standard Azure symbols
+- Useful for internal diagrams
+- Validate consistency before reuse
+
+---
+
+### Kubernetes
+
+**Description**
+
+Custom Kubernetes icons representing clusters, workloads, and supporting components in container orchestration diagrams.
+
+**Concise notes**
+
+- Kubernetes-focused
+- Suitable for platform diagrams
+- Complements cloud-native libraries
+
+---
+
+### Databases
+
+**Description**
+
+Icons representing a variety of database technologies and storage concepts for system and data architecture diagrams.
+
+**Concise notes**
+
+- Technology-agnostic grouping
+- Good for data layer views
+- Mix of SQL and NoSQL concepts
+
+---
+
+### Delivery Icons
+
+**Description**
+
+Symbols related to delivery, distribution, and movement, often used in logistics or deployment-oriented diagrams.
+
+**Concise notes**
+
+- Conceptual delivery metaphors
+- Useful for process flows
+- Not infrastructure-specific
+
+---
+
+### Developer Tools
+
+**Description**
+
+Icons for common developer tools and platforms, used to illustrate tooling ecosystems and development workflows.
+
+**Concise notes**
+
+- Tool identification
+- Best for ecosystem diagrams
+- Avoid mixing with core architecture symbols
+
+---
+
+### Devices
+
+**Description**
+
+Icons representing physical and virtual devices such as desktops, mobile devices, and endpoints.
+
+**Concise notes**
+
+- Endpoint representation
+- Useful in network diagrams
+- Non-backend focused
+
+---
+
+### Flat Color Icons
+
+**Description**
+
+A stylistically consistent set of flat-color icons for general illustration and visual enhancement.
+
+**Concise notes**
+
+- Visual consistency
+- Not domain-specific
+- Best for presentation diagrams
+
+---
+
+### Font Awesome
+
+**Description**
+
+A collection of commonly recognized Font Awesome icons adapted for use in draw.io diagrams.
+
+**Concise notes**
+
+- Familiar iconography
+- Generic usage
+- Avoid overuse in technical diagrams
+
+---
+
+### Hashicorp Icons
+
+**Description**
+
+Icons representing HashiCorp tools, suitable for infrastructure, provisioning, and secrets-management diagrams.
+
+**Concise notes**
+
+- HashiCorp ecosystem focus
+- Useful in IaC diagrams
+- Product identification only
+
+---
+
+### Integration Patterns
+
+**Description**
+
+Icons representing common enterprise integration patterns, such as messaging, routing, and transformation.
+
+**Concise notes**
+
+- Pattern-oriented
+- Ideal for integration architecture
+- Technology-agnostic
+
+---
+
+### Integration
+
+**Description**
+
+General integration-related symbols for illustrating system connections, adapters, and interaction points.
+
+**Concise notes**
+
+- Broad integration concepts
+- Complements pattern library
+- Use for high-level flows
+
+---
+
+### Office365
+
+**Description**
+
+Icons for Microsoft Office 365 applications and services, useful in productivity and collaboration diagrams.
+
+**Concise notes**
+
+- SaaS identification
+- Not infrastructure primitives
+- Use in user-centric diagrams
+
+---
+
+### OSA Icons
+
+**Description**
+
+A collection of OSA-related icons used for specialized or domain-specific architectural illustrations.
+
+**Concise notes**
+
+- Niche usage
+- Domain-specific
+- Validate meaning before reuse
+
+---
+
+### Power Bi
+
+**Description**
+
+Icons representing Power BI and related analytics concepts for reporting and data-visualization architectures.
+
+**Concise notes**
+
+- Analytics-focused
+- Suitable for BI flows
+- Product-centric
+
+---
+
+### Powerapps And Flows
+
+**Description**
+
+Symbols for Microsoft Power Apps and Power Automate, used to illustrate low-code solutions and automation workflows.
+
+**Concise notes**
+
+- Low-code platform focus
+- Useful in business automation diagrams
+- SaaS-centric
+
+---
+
+### Users And Roles
+
+**Description**
+
+Icons representing users, roles, and personas, intended to model access, responsibilities, and interaction points.
+
+**Concise notes**
+
+- Identity and role modeling
+- Useful in security and access diagrams
+- Conceptual, not technical
 
 ---
 
