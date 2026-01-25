@@ -1,23 +1,137 @@
-<img src="https://github.com/SaumilP/drawio_libraries/blob/main/Docs/drawio-logo.png?raw=true" width="100" height="100">
+# Draw.io Architecture Libraries
 
-# drawio_libraries
-Repository contains built or downloaded few oss ("as-is" version of) draw.io libraries.
+Reusable **draw.io / diagrams.net libraries** for creating **clean, consistent, and professional architecture diagrams**.
 
-## Overview
-For ease of use, reduce searching and spending time on creating diagrams, this repository is creation.
+This repository provides curated symbol libraries for **system design, cloud architecture, DevOps, and security diagrams**, optimized for clarity, reuse, and documentation quality.
 
-## Using draw.io (previously known as 'diagrams.net') libraries
+---
 
-### Get draw.io desktop
-[drawio desktop](https://www.drawio.com/) is a free and open source cross-platform graph drawing software built using HTML5 and Javascript on Electron. Its interface can be used for creating various diagrams such as flowcharts, wireframes, architecture diagrams, organisation charts etc. You can download an entire working copy from the website, or build it from Github repository under [releases](https://github.com/jgraph/drawio-desktop/releases). It is available for most of the platforms.
+## 🎯 Purpose
 
-### Open the library
-1. Once you open Draw.io, select "Open Library" from the "File" Menu 
+Architectural diagrams often fail due to:
 
-<img src="https://github.com/SaumilP/drawio_libraries/blob/main/Docs/drawio_open_lib.png?raw=true" width="300" height="500">
+- inconsistent symbols
+- visual clutter
+- lack of shared semantics
 
-2. Open the [DataFlowDiagram_Shapes.xml](DataFlowDiagram_Shapes.xml) file.
+This project solves that by offering **standardized, reusable libraries** that help teams produce diagrams that are:
 
-<img src="https://github.com/SaumilP/drawio_libraries/blob/main/Docs/dfd_library_snippet.png?raw=true" width="250" height="450">
+- easier to read
+- easier to maintain
+- easier to review
 
-3. Start adding shapes!
+---
+
+## 📚 Library Catalog
+
+A visual catalog with descriptions and previews is available here:
+
+👉 **[CATALOG.md](./CATALOG.md)**
+
+Each library is independently usable and versioned.
+
+---
+
+## 📦 Included Libraries
+
+| Library              | Description                                                |
+|----------------------|------------------------------------------------------------|
+| **Azure**            | Azure icons (Containers,                                   |
+| **Databases**        | Containers, Kubernetes, ingress, service mesh components   |
+| **Developer Topols** | CI/CD pipelines, artifact registries, environments         |
+| **Hashicorp Icons**  | C4-style components, boundaries, flows                     |
+| **Power BI**         | IAM, trust boundaries, firewalls, access controls          |
+| **Integrations**     | Security concepts, controls, monitoring, incident response |
+
+> Libraries are intentionally **minimal and semantic** rather than exhaustive icon packs.
+
+---
+
+## 🚀 How to Use
+
+### Option 1: Load a single library
+1. Open **draw.io / diagrams.net**
+2. Go to **File → Open Library from → Device**
+3. Select the `.xml` library file
+4. Drag symbols into your diagram
+
+### Option 2: Use a release pack (recommended)
+1. Download a release ZIP from **GitHub Releases**
+2. Extract the libraries
+3. Import one or more `.xml` files into draw.io
+
+---
+
+## 🧭 Design Principles
+
+These libraries follow a few strict rules:
+
+- **Architecture first** — symbols represent concepts, not vendors
+- **Consistent sizing** — predictable alignment and spacing
+- **Low visual noise** — diagrams stay readable at scale
+- **Print & dark-mode friendly**
+- **Tool-agnostic semantics** (works beyond draw.io)
+
+---
+
+## 🧩 Typical Use Cases
+
+- System architecture diagrams
+- C4 (Context / Container / Component) diagrams
+- Cloud and infrastructure design reviews
+- DevOps and CI/CD flows
+- Technical documentation and RFCs
+- Architecture review boards (ARB) material
+
+---
+
+## 📦 Releases & Versioning
+
+This repository publishes **versioned release packs**.
+
+Each release:
+- is tagged (e.g. `v1.0.0`)
+- includes a downloadable ZIP
+- contains stable library definitions
+
+👉 See **GitHub Releases** for downloadable packs.
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome, especially:
+- new libraries with clear scope
+- refinements to existing symbols
+- visual consistency improvements
+- documentation and examples
+
+**Contribution guidelines:**
+1. Keep symbols **semantic**, not vendor-marketing heavy
+2. Avoid duplicating icons with different names
+3. Prefer fewer, clearer symbols over large icon sets
+4. Include a short description for catalog inclusion
+
+---
+
+## 🛣 Roadmap
+
+- [ ] Expand catalog previews
+- [ ] Add more C4-aligned symbols
+- [ ] Add example diagrams per library
+- [ ] Provide light/dark theme variants
+- [ ] Improve cross-library consistency
+
+---
+
+## 📄 License
+
+MIT License — free to use, modify, and distribute.
+
+---
+
+## ⭐ Why This Repo Exists
+
+Good diagrams are a **force multiplier** for engineering teams.
+
+This repository exists to make **clear architecture diagrams the default, not the exception**.
