@@ -9,6 +9,10 @@ Reusable **draw.io / diagrams.net libraries** for creating **clean, consistent, 
 
 This repository provides curated symbol libraries for **system design, cloud architecture, DevOps, and security diagrams**, optimized for clarity, reuse, and documentation quality.
 
+### 🖼 [Browse the live gallery →](https://saumilp.github.io/drawio_libraries/)
+
+Search and filter every shape library in the browser — no need to open draw.io just to see what's included.
+
 ---
 
 ## 🎯 Purpose
@@ -29,7 +33,7 @@ This project solves that by offering **standardized, reusable libraries** that h
 
 ## 📚 Library Catalog
 
-A visual catalog with descriptions and previews is available here:
+Browse and search every library interactively in the **[live gallery](https://saumilp.github.io/drawio_libraries/)**, or read the full descriptions here:
 
 👉 **[CATALOG.md](./CATALOG.md)**
 
@@ -178,6 +182,12 @@ See [**CONTRIBUTING.md**](./CONTRIBUTING.md) for guidelines on adding a new libr
 ## 📄 License
 
 MIT License — free to use, modify, and distribute.
+
+---
+
+## 📈 Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=SaumilP/drawio_libraries&type=Date)](https://star-history.com/#SaumilP/drawio_libraries&Date)
 
 ---
 

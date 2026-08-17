@@ -20,7 +20,8 @@ Contributions are welcome, especially:
 1. Build the library in draw.io / diagrams.net and export it as an `.xml` library file into `libraries/`, using kebab-case for the filename (e.g. `my-new-library.xml`).
 2. Add a preview screenshot to `screenshots/` with the same base filename.
 3. Add a row to the table in `README.md` and a full entry in `CATALOG.md` (see existing entries for the expected format). `tools/generate_catalog.py` can generate a starting point, but most of the descriptive text in `CATALOG.md` is written and maintained by hand — see `tools/HELP.md`.
-4. Open the library in draw.io (**File → Open Library from → Device**) to confirm it loads and every shape renders correctly before opening a PR.
+4. Run `python3 tools/generate_gallery_data.py` to regenerate `docs/gallery-data.json` from the new README row, so the [live gallery](https://saumilp.github.io/drawio_libraries/) picks up the new library. Commit the updated JSON along with your other changes.
+5. Open the library in draw.io (**File → Open Library from → Device**) to confirm it loads and every shape renders correctly before opening a PR.
 
 ## Reporting issues
 

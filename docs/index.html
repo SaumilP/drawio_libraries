@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Draw.io Architecture Libraries — Gallery</title>
+<meta name="description" content="Browse every draw.io/diagrams.net shape library in this repository: AWS, Azure, GCP, C4, DevOps, and more.">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🗂️</text></svg>">
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+
+<header class="site-header">
+  <div class="header-inner">
+    <div class="header-title">
+      <h1>Draw.io Architecture Libraries</h1>
+      <p class="tagline">Reusable, semantic shape libraries for clean architecture diagrams — browse every library below.</p>
+    </div>
+    <div class="header-actions">
+      <a class="btn btn-star" href="https://github.com/SaumilP/drawio_libraries" target="_blank" rel="noopener">★ Star on GitHub</a>
+      <a class="btn btn-ghost" href="https://github.com/SaumilP/drawio_libraries/releases" target="_blank" rel="noopener">Releases</a>
+    </div>
+  </div>
+</header>
+
+<main>
+  <div class="toolbar">
+    <input id="search" type="search" placeholder="Search libraries… (e.g. aws, kubernetes, database)" aria-label="Search libraries">
+    <div id="categories" class="categories" role="group" aria-label="Filter by category"></div>
+  </div>
+
+  <p id="result-count" class="result-count" aria-live="polite"></p>
+
+  <div id="grid" class="grid"></div>
+
+  <p id="empty-state" class="empty-state" hidden>No libraries match your search.</p>
+</main>
+
+<footer class="site-footer">
+  <p>
+    Generated from <code>libraries/*.xml</code> via <code>tools/generate_gallery_data.py</code>.
+    Every card links to the raw <code>.xml</code> file — load it into draw.io via
+    <strong>File → Open Library from → Device</strong>.
+  </p>
+  <p><a href="https://github.com/SaumilP/drawio_libraries">github.com/SaumilP/drawio_libraries</a> · MIT License</p>
+</footer>
+
+<div id="lightbox" class="lightbox" hidden>
+  <button class="lightbox-close" aria-label="Close preview">×</button>
+  <img id="lightbox-img" alt="">
+</div>
+
+<script src="assets/gallery.js"></script>
+</body>
+</html>

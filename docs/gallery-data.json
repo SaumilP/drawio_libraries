@@ -1,0 +1,362 @@
+[
+  {
+    "name": "Build Pipeline Shapes",
+    "file": "libraries/Build_Pipeline_Shapes.xml",
+    "category": "DevOps & CI/CD",
+    "shapeCount": 54,
+    "notes": "Shapes allowing to build design diagrams for Build Pipelines.",
+    "screenshot": "https://raw.githubusercontent.com/SaumilP/drawio_libraries/main/screenshots/Build_Pipeline_Shapes.png",
+    "downloadUrl": "https://raw.githubusercontent.com/SaumilP/drawio_libraries/main/libraries/Build_Pipeline_Shapes.xml",
+    "sourceUrl": "https://github.com/SaumilP/drawio_libraries/blob/main/libraries/Build_Pipeline_Shapes.xml"
+  },
+  {
+    "name": "Dataflowdiagram Limited Shapes",
+    "file": "libraries/DataFlowDiagram_Limited_Shapes.xml",
+    "category": "Data Flow & Integration",
+    "shapeCount": 9,
+    "notes": "Custom Data-flow diagrams shapes.",
+    "screenshot": "https://raw.githubusercontent.com/SaumilP/drawio_libraries/main/screenshots/DataFlowDiagram_Limited_Shapes.png",
+    "downloadUrl": "https://raw.githubusercontent.com/SaumilP/drawio_libraries/main/libraries/DataFlowDiagram_Limited_Shapes.xml",
+    "sourceUrl": "https://github.com/SaumilP/drawio_libraries/blob/main/libraries/DataFlowDiagram_Limited_Shapes.xml"
+  },
+  {
+    "name": "Dataflowdiagram Shapes",
+    "file": "libraries/DataFlowDiagram_Shapes.xml",
+    "category": "Data Flow & Integration",
+    "shapeCount": 21,
+    "notes": "Another variations of data-flow diagrams related shapes",
+    "screenshot": "https://raw.githubusercontent.com/SaumilP/drawio_libraries/main/screenshots/DataFlowDiagram_Shapes.png",
+    "downloadUrl": "https://raw.githubusercontent.com/SaumilP/drawio_libraries/main/libraries/DataFlowDiagram_Shapes.xml",
+    "sourceUrl": "https://github.com/SaumilP/drawio_libraries/blob/main/libraries/DataFlowDiagram_Shapes.xml"
+  },
+  {
+    "name": "Additional Or Support",
+    "file": "libraries/additional-or-support.xml",
+    "category": "General & Design",
+    "shapeCount": 113,
+    "notes": "Library contains generic additional shapes for design support.",
+    "screenshot": "https://raw.githubusercontent.com/SaumilP/drawio_libraries/main/screenshots/additional-or-support.png",
+    "downloadUrl": "https://raw.githubusercontent.com/SaumilP/drawio_libraries/main/libraries/additional-or-support.xml",
+    "sourceUrl": "https://github.com/SaumilP/drawio_libraries/blob/main/libraries/additional-or-support.xml"
+  },
+  {
+    "name": "Ai Machine Learning",
+    "file": "libraries/ai-machine-learning.xml",
+    "category": "General & Design",
+    "shapeCount": 41,
+    "notes": "Library contains AI machine learning shapes.",
+    "screenshot": "https://raw.githubusercontent.com/SaumilP/drawio_libraries/main/screenshots/ai-machine-learning.png",
+    "downloadUrl": "https://raw.githubusercontent.com/SaumilP/drawio_libraries/main/libraries/ai-machine-learning.xml",
+    "sourceUrl": "https://github.com/SaumilP/drawio_libraries/blob/main/libraries/ai-machine-learning.xml"
+  },
+  {
+    "name": "Any Others",
+    "file": "libraries/any-others.xml",
+    "category": "General & Design",
+    "shapeCount": 115,
+    "notes": "Uncategorised shapes.",
+    "screenshot": "https://raw.githubusercontent.com/SaumilP/drawio_libraries/main/screenshots/any-others.png",
+    "downloadUrl": "https://raw.githubusercontent.com/SaumilP/drawio_libraries/main/libraries/any-others.xml",
+    "sourceUrl": "https://github.com/SaumilP/drawio_libraries/blob/main/libraries/any-others.xml"
+  },
+  {
+    "name": "Apache Software Foundation Logos",
+    "file": "libraries/apache-software-foundation-logos.xml",
+    "category": "General & Design",
+    "shapeCount": 220,
+    "notes": "Apache Software foundation shapes.",
+    "screenshot": "https://raw.githubusercontent.com/SaumilP/drawio_libraries/main/screenshots/apache-software-foundation.png",
+    "downloadUrl": "https://raw.githubusercontent.com/SaumilP/drawio_libraries/main/libraries/apache-software-foundation-logos.xml",
+    "sourceUrl": "https://github.com/SaumilP/drawio_libraries/blob/main/libraries/apache-software-foundation-logos.xml"
+  },
+  {
+    "name": "Apps And Logos",
+    "file": "libraries/apps-and-logos.xml",
+    "category": "General & Design",
+    "shapeCount": 154,
+    "notes": "Various apps and tools related logos.",
+    "screenshot": "https://raw.githubusercontent.com/SaumilP/drawio_libraries/main/screenshots/apps-and-logos.png",
+    "downloadUrl": "https://raw.githubusercontent.com/SaumilP/drawio_libraries/main/libraries/apps-and-logos.xml",
+    "sourceUrl": "https://github.com/SaumilP/drawio_libraries/blob/main/libraries/apps-and-logos.xml"
+  },
+  {
+    "name": "Aws Services",
+    "file": "libraries/aws-services.xml",
+    "category": "Cloud Providers",
+    "shapeCount": 28,
+    "notes": "Original pictogram icons for common AWS services, grouped and color-coded by category (compute, storage, database, networking, security, messaging, observability). Not AWS's trademarked icon artwork.",
+    "screenshot": "https://raw.githubusercontent.com/SaumilP/drawio_libraries/main/screenshots/aws-services.png",
+    "downloadUrl": "https://raw.githubusercontent.com/SaumilP/drawio_libraries/main/libraries/aws-services.xml",
+    "sourceUrl": "https://github.com/SaumilP/drawio_libraries/blob/main/libraries/aws-services.xml"
+  },
+  {
+    "name": "Aws Services (3D)",
+    "file": "libraries/aws-services-3d.xml",
+    "category": "Cloud Providers",
+    "shapeCount": 28,
+    "notes": "Same 28 AWS service icons as `aws-services.xml`, rendered with a gradient fill, drop shadow, and glossy highlight for a raised, dimensional look.",
+    "screenshot": "https://raw.githubusercontent.com/SaumilP/drawio_libraries/main/screenshots/aws-services-3d.png",
+    "downloadUrl": "https://raw.githubusercontent.com/SaumilP/drawio_libraries/main/libraries/aws-services-3d.xml",
+    "sourceUrl": "https://github.com/SaumilP/drawio_libraries/blob/main/libraries/aws-services-3d.xml"
+  },
+  {
+    "name": "Azure Additional Or Support",
+    "file": "libraries/azure-additional-or-support.xml",
+    "category": "Cloud Providers",
+    "shapeCount": 79,
+    "notes": "Smaller (79-shape) supplementary Azure pack for adjacent concepts (automation, migration, containers, cloud adoption) not covered by Custom Azure.",
+    "screenshot": "https://raw.githubusercontent.com/SaumilP/drawio_libraries/main/screenshots/azure-additional-support.png",
+    "downloadUrl": "https://raw.githubusercontent.com/SaumilP/drawio_libraries/main/libraries/azure-additional-or-support.xml",
+    "sourceUrl": "https://github.com/SaumilP/drawio_libraries/blob/main/libraries/azure-additional-or-support.xml"
+  },
+  {
+    "name": "Azure Services",
+    "file": "libraries/azure-services.xml",
+    "category": "Cloud Providers",
+    "shapeCount": 28,
+    "notes": "Original pictogram icons for common Azure services, in the same visual system as `aws-services.xml`/`gcp-services.xml` for 3-cloud consistency. Not Microsoft's trademarked icon artwork.",
+    "screenshot": "https://raw.githubusercontent.com/SaumilP/drawio_libraries/main/screenshots/azure-services.png",
+    "downloadUrl": "https://raw.githubusercontent.com/SaumilP/drawio_libraries/main/libraries/azure-services.xml",
+    "sourceUrl": "https://github.com/SaumilP/drawio_libraries/blob/main/libraries/azure-services.xml"
+  },
+  {
+    "name": "Azure Services (3D)",
+    "file": "libraries/azure-services-3d.xml",
+    "category": "Cloud Providers",
+    "shapeCount": 28,
+    "notes": "Same 28 Azure service icons as `azure-services.xml`, rendered with a gradient fill, drop shadow, and glossy highlight.",
+    "screenshot": "https://raw.githubusercontent.com/SaumilP/drawio_libraries/main/screenshots/azure-services-3d.png",
+    "downloadUrl": "https://raw.githubusercontent.com/SaumilP/drawio_libraries/main/libraries/azure-services-3d.xml",
+    "sourceUrl": "https://github.com/SaumilP/drawio_libraries/blob/main/libraries/azure-services-3d.xml"
+  },
+  {
+    "name": "Buildings",
+    "file": "libraries/buildings.xml",
+    "category": "General & Design",
+    "shapeCount": 38,
+    "notes": "Library contains building related shapes.",
+    "screenshot": "https://raw.githubusercontent.com/SaumilP/drawio_libraries/main/screenshots/buildings.png",
+    "downloadUrl": "https://raw.githubusercontent.com/SaumilP/drawio_libraries/main/libraries/buildings.xml",
+    "sourceUrl": "https://github.com/SaumilP/drawio_libraries/blob/main/libraries/buildings.xml"
+  },
+  {
+    "name": "C4 Model",
+    "file": "libraries/c4-model.xml",
+    "category": "Architecture Notation",
+    "shapeCount": 12,
+    "notes": "Standard C4 notation shapes (Person, Software System, Container, Component, and boundaries), each in internal and external variants, for Context/Container/Component diagrams.",
+    "screenshot": "https://raw.githubusercontent.com/SaumilP/drawio_libraries/main/screenshots/c4-model.png",
+    "downloadUrl": "https://raw.githubusercontent.com/SaumilP/drawio_libraries/main/libraries/c4-model.xml",
+    "sourceUrl": "https://github.com/SaumilP/drawio_libraries/blob/main/libraries/c4-model.xml"
+  },
+  {
+    "name": "Chart Icons",
+    "file": "libraries/chart-icons.xml",
+    "category": "General & Design",
+    "shapeCount": 36,
+    "notes": "Different chart icons.",
+    "screenshot": "https://raw.githubusercontent.com/SaumilP/drawio_libraries/main/screenshots/chart-icons.png",
+    "downloadUrl": "https://raw.githubusercontent.com/SaumilP/drawio_libraries/main/libraries/chart-icons.xml",
+    "sourceUrl": "https://github.com/SaumilP/drawio_libraries/blob/main/libraries/chart-icons.xml"
+  },
+  {
+    "name": "Custom Azure",
+    "file": "libraries/custom-azure.xml",
+    "category": "Cloud Providers",
+    "shapeCount": 174,
+    "notes": "Large (174-shape) core Azure service icon pack \u2014 the main Azure library; see Azure Additional Or Support for supplementary shapes.",
+    "screenshot": "https://raw.githubusercontent.com/SaumilP/drawio_libraries/main/screenshots/custom-azure.png",
+    "downloadUrl": "https://raw.githubusercontent.com/SaumilP/drawio_libraries/main/libraries/custom-azure.xml",
+    "sourceUrl": "https://github.com/SaumilP/drawio_libraries/blob/main/libraries/custom-azure.xml"
+  },
+  {
+    "name": "Kubernetes",
+    "file": "libraries/custom-kubernetes.xml",
+    "category": "DevOps & CI/CD",
+    "shapeCount": 39,
+    "notes": "Contains list of custom kubernetes icons.",
+    "screenshot": "https://raw.githubusercontent.com/SaumilP/drawio_libraries/main/screenshots/custom-kubernetes.png",
+    "downloadUrl": "https://raw.githubusercontent.com/SaumilP/drawio_libraries/main/libraries/custom-kubernetes.xml",
+    "sourceUrl": "https://github.com/SaumilP/drawio_libraries/blob/main/libraries/custom-kubernetes.xml"
+  },
+  {
+    "name": "Databases",
+    "file": "libraries/databases.xml",
+    "category": "General & Design",
+    "shapeCount": 46,
+    "notes": "List of various database tools.",
+    "screenshot": "https://raw.githubusercontent.com/SaumilP/drawio_libraries/main/screenshots/databases.png",
+    "downloadUrl": "https://raw.githubusercontent.com/SaumilP/drawio_libraries/main/libraries/databases.xml",
+    "sourceUrl": "https://github.com/SaumilP/drawio_libraries/blob/main/libraries/databases.xml"
+  },
+  {
+    "name": "Delivery Icons",
+    "file": "libraries/delivery-icons.xml",
+    "category": "General & Design",
+    "shapeCount": 35,
+    "notes": "Contains list of different delivery icons.",
+    "screenshot": "https://raw.githubusercontent.com/SaumilP/drawio_libraries/main/screenshots/delivery-icons.png",
+    "downloadUrl": "https://raw.githubusercontent.com/SaumilP/drawio_libraries/main/libraries/delivery-icons.xml",
+    "sourceUrl": "https://github.com/SaumilP/drawio_libraries/blob/main/libraries/delivery-icons.xml"
+  },
+  {
+    "name": "Developer Tools",
+    "file": "libraries/developer-tools.xml",
+    "category": "DevOps & CI/CD",
+    "shapeCount": 145,
+    "notes": "Contains list of developer tools.",
+    "screenshot": "https://raw.githubusercontent.com/SaumilP/drawio_libraries/main/screenshots/developer-tools.png",
+    "downloadUrl": "https://raw.githubusercontent.com/SaumilP/drawio_libraries/main/libraries/developer-tools.xml",
+    "sourceUrl": "https://github.com/SaumilP/drawio_libraries/blob/main/libraries/developer-tools.xml"
+  },
+  {
+    "name": "Devices",
+    "file": "libraries/devices.xml",
+    "category": "General & Design",
+    "shapeCount": 85,
+    "notes": "Contains list of Devices.",
+    "screenshot": "https://raw.githubusercontent.com/SaumilP/drawio_libraries/main/screenshots/devices.png",
+    "downloadUrl": "https://raw.githubusercontent.com/SaumilP/drawio_libraries/main/libraries/devices.xml",
+    "sourceUrl": "https://github.com/SaumilP/drawio_libraries/blob/main/libraries/devices.xml"
+  },
+  {
+    "name": "Devops Observability",
+    "file": "libraries/devops-observability.xml",
+    "category": "DevOps & CI/CD",
+    "shapeCount": 28,
+    "notes": "Original pictogram icons for 28 cloud-native DevOps/observability tools (Docker, Kubernetes tooling, CI/CD, IaC, messaging, metrics/logs/traces, proxies, testing) not covered by Developer Tools or the HashiCorp library. Not the tools' trademarked logos.",
+    "screenshot": "https://raw.githubusercontent.com/SaumilP/drawio_libraries/main/screenshots/devops-observability.png",
+    "downloadUrl": "https://raw.githubusercontent.com/SaumilP/drawio_libraries/main/libraries/devops-observability.xml",
+    "sourceUrl": "https://github.com/SaumilP/drawio_libraries/blob/main/libraries/devops-observability.xml"
+  },
+  {
+    "name": "Devops Observability (3D)",
+    "file": "libraries/devops-observability-3d.xml",
+    "category": "DevOps & CI/CD",
+    "shapeCount": 28,
+    "notes": "Same 28 tool icons as `devops-observability.xml`, rendered with a gradient fill, drop shadow, and glossy highlight.",
+    "screenshot": "https://raw.githubusercontent.com/SaumilP/drawio_libraries/main/screenshots/devops-observability-3d.png",
+    "downloadUrl": "https://raw.githubusercontent.com/SaumilP/drawio_libraries/main/libraries/devops-observability-3d.xml",
+    "sourceUrl": "https://github.com/SaumilP/drawio_libraries/blob/main/libraries/devops-observability-3d.xml"
+  },
+  {
+    "name": "Flat Color Icons",
+    "file": "libraries/flat-color-icons.xml",
+    "category": "General & Design",
+    "shapeCount": 312,
+    "notes": "Contains list of flat color icons.",
+    "screenshot": "https://raw.githubusercontent.com/SaumilP/drawio_libraries/main/screenshots/flat-color-icons.png",
+    "downloadUrl": "https://raw.githubusercontent.com/SaumilP/drawio_libraries/main/libraries/flat-color-icons.xml",
+    "sourceUrl": "https://github.com/SaumilP/drawio_libraries/blob/main/libraries/flat-color-icons.xml"
+  },
+  {
+    "name": "Font Awesome",
+    "file": "libraries/font-awesome.xml",
+    "category": "General & Design",
+    "shapeCount": 519,
+    "notes": "Various Font Awesome icons.",
+    "screenshot": "https://raw.githubusercontent.com/SaumilP/drawio_libraries/main/screenshots/font-awesome.png",
+    "downloadUrl": "https://raw.githubusercontent.com/SaumilP/drawio_libraries/main/libraries/font-awesome.xml",
+    "sourceUrl": "https://github.com/SaumilP/drawio_libraries/blob/main/libraries/font-awesome.xml"
+  },
+  {
+    "name": "Gcp Services",
+    "file": "libraries/gcp-services.xml",
+    "category": "Cloud Providers",
+    "shapeCount": 28,
+    "notes": "Original pictogram icons for common Google Cloud services, grouped and color-coded by category (compute, storage, database, networking, security, messaging, observability). Not Google's trademarked icon artwork.",
+    "screenshot": "https://raw.githubusercontent.com/SaumilP/drawio_libraries/main/screenshots/gcp-services.png",
+    "downloadUrl": "https://raw.githubusercontent.com/SaumilP/drawio_libraries/main/libraries/gcp-services.xml",
+    "sourceUrl": "https://github.com/SaumilP/drawio_libraries/blob/main/libraries/gcp-services.xml"
+  },
+  {
+    "name": "Gcp Services (3D)",
+    "file": "libraries/gcp-services-3d.xml",
+    "category": "Cloud Providers",
+    "shapeCount": 28,
+    "notes": "Same 28 GCP service icons as `gcp-services.xml`, rendered with a gradient fill, drop shadow, and glossy highlight for a raised, dimensional look.",
+    "screenshot": "https://raw.githubusercontent.com/SaumilP/drawio_libraries/main/screenshots/gcp-services-3d.png",
+    "downloadUrl": "https://raw.githubusercontent.com/SaumilP/drawio_libraries/main/libraries/gcp-services-3d.xml",
+    "sourceUrl": "https://github.com/SaumilP/drawio_libraries/blob/main/libraries/gcp-services-3d.xml"
+  },
+  {
+    "name": "Hashicorp Draw Io",
+    "file": "libraries/hashicorp-draw-io.xml",
+    "category": "DevOps & CI/CD",
+    "shapeCount": 26,
+    "notes": "Contains different Hashicorp tool icons.",
+    "screenshot": "https://raw.githubusercontent.com/SaumilP/drawio_libraries/main/screenshots/hashicorp-icons.png",
+    "downloadUrl": "https://raw.githubusercontent.com/SaumilP/drawio_libraries/main/libraries/hashicorp-draw-io.xml",
+    "sourceUrl": "https://github.com/SaumilP/drawio_libraries/blob/main/libraries/hashicorp-draw-io.xml"
+  },
+  {
+    "name": "Integration Patterns",
+    "file": "libraries/integration-patterns.xml",
+    "category": "Data Flow & Integration",
+    "shapeCount": 12,
+    "notes": "12 abstract Enterprise Integration Pattern icons (Aggregator, Router, Splitter, etc.) \u2014 conceptual, tool-agnostic notation, not tied to any specific product.",
+    "screenshot": "https://raw.githubusercontent.com/SaumilP/drawio_libraries/main/screenshots/integration-patterns.png",
+    "downloadUrl": "https://raw.githubusercontent.com/SaumilP/drawio_libraries/main/libraries/integration-patterns.xml",
+    "sourceUrl": "https://github.com/SaumilP/drawio_libraries/blob/main/libraries/integration-patterns.xml"
+  },
+  {
+    "name": "Integration",
+    "file": "libraries/integration.xml",
+    "category": "Data Flow & Integration",
+    "shapeCount": 265,
+    "notes": "Large (265-shape) icon pack for BizTalk Server and Azure integration tooling \u2014 adapters, protocols, Service Bus, Logic Apps, and related components. Product/tool-specific, unlike Integration Patterns.",
+    "screenshot": "https://raw.githubusercontent.com/SaumilP/drawio_libraries/main/screenshots/integration.png",
+    "downloadUrl": "https://raw.githubusercontent.com/SaumilP/drawio_libraries/main/libraries/integration.xml",
+    "sourceUrl": "https://github.com/SaumilP/drawio_libraries/blob/main/libraries/integration.xml"
+  },
+  {
+    "name": "Office365",
+    "file": "libraries/office365.xml",
+    "category": "Microsoft 365 & Power Platform",
+    "shapeCount": 10,
+    "notes": "Contains list of Office365 related icons.",
+    "screenshot": "https://raw.githubusercontent.com/SaumilP/drawio_libraries/main/screenshots/office365.png",
+    "downloadUrl": "https://raw.githubusercontent.com/SaumilP/drawio_libraries/main/libraries/office365.xml",
+    "sourceUrl": "https://github.com/SaumilP/drawio_libraries/blob/main/libraries/office365.xml"
+  },
+  {
+    "name": "Osa Icons",
+    "file": "libraries/osa-icons.xml",
+    "category": "General & Design",
+    "shapeCount": 74,
+    "notes": "Contains various OSA icons.",
+    "screenshot": "https://raw.githubusercontent.com/SaumilP/drawio_libraries/main/screenshots/osa-icons.png",
+    "downloadUrl": "https://raw.githubusercontent.com/SaumilP/drawio_libraries/main/libraries/osa-icons.xml",
+    "sourceUrl": "https://github.com/SaumilP/drawio_libraries/blob/main/libraries/osa-icons.xml"
+  },
+  {
+    "name": "Power Bi",
+    "file": "libraries/power-bi.xml",
+    "category": "Microsoft 365 & Power Platform",
+    "shapeCount": 49,
+    "notes": "Contains list of Power-BI icons.",
+    "screenshot": "https://raw.githubusercontent.com/SaumilP/drawio_libraries/main/screenshots/powerbi.png",
+    "downloadUrl": "https://raw.githubusercontent.com/SaumilP/drawio_libraries/main/libraries/power-bi.xml",
+    "sourceUrl": "https://github.com/SaumilP/drawio_libraries/blob/main/libraries/power-bi.xml"
+  },
+  {
+    "name": "Powerapps And Flows",
+    "file": "libraries/powerapps-and-flows.xml",
+    "category": "Microsoft 365 & Power Platform",
+    "shapeCount": 91,
+    "notes": "Contains list of Power-apps and flows relatd icons.",
+    "screenshot": "https://raw.githubusercontent.com/SaumilP/drawio_libraries/main/screenshots/powerapps-and-flows.png",
+    "downloadUrl": "https://raw.githubusercontent.com/SaumilP/drawio_libraries/main/libraries/powerapps-and-flows.xml",
+    "sourceUrl": "https://github.com/SaumilP/drawio_libraries/blob/main/libraries/powerapps-and-flows.xml"
+  },
+  {
+    "name": "Users And Roles",
+    "file": "libraries/users-and-roles.xml",
+    "category": "General & Design",
+    "shapeCount": 111,
+    "notes": "Contains list of users and roles related icons for illustration purpose.",
+    "screenshot": "https://raw.githubusercontent.com/SaumilP/drawio_libraries/main/screenshots/users-and-roles.png",
+    "downloadUrl": "https://raw.githubusercontent.com/SaumilP/drawio_libraries/main/libraries/users-and-roles.xml",
+    "sourceUrl": "https://github.com/SaumilP/drawio_libraries/blob/main/libraries/users-and-roles.xml"
+  }
+]
