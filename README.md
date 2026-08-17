@@ -1,5 +1,10 @@
 # Draw.io Architecture Libraries
 
+[![Latest Release](https://img.shields.io/github/v/release/SaumilP/drawio_libraries)](https://github.com/SaumilP/drawio_libraries/releases)
+[![License: MIT](https://img.shields.io/github/license/SaumilP/drawio_libraries)](./LICENSE)
+[![Last Commit](https://img.shields.io/github/last-commit/SaumilP/drawio_libraries)](https://github.com/SaumilP/drawio_libraries/commits/main)
+[![Issues](https://img.shields.io/github/issues/SaumilP/drawio_libraries)](https://github.com/SaumilP/drawio_libraries/issues)
+
 Reusable **draw.io / diagrams.net libraries** for creating **clean, consistent, and professional architecture diagrams**.
 
 This repository provides curated symbol libraries for **system design, cloud architecture, DevOps, and security diagrams**, optimized for clarity, reuse, and documentation quality.
@@ -140,25 +145,15 @@ Each release:
 - includes a downloadable ZIP
 - contains stable library definitions
 
-👉 See [**GitHub Releases**](https://github.com/SaumilP/drawio_libraries/releases) for downloadable packs.
+👉 See [**GitHub Releases**](https://github.com/SaumilP/drawio_libraries/releases) for downloadable packs, and [**CHANGELOG.md**](./CHANGELOG.md) for what changed in each one.
 
 ---
 
 ## 🤝 Contributing
 
-Contributions are welcome, especially:
+Contributions are welcome — new libraries, refinements to existing symbols, visual consistency improvements, documentation and examples.
 
-- new libraries with clear scope
-- refinements to existing symbols
-- visual consistency improvements
-- documentation and examples
-
-**Contribution guidelines:**
-
-1. Keep symbols **semantic**, not vendor-marketing heavy
-2. Avoid duplicating icons with different names
-3. Prefer fewer, clearer symbols over large icon sets
-4. Include a short description for catalog inclusion
+See [**CONTRIBUTING.md**](./CONTRIBUTING.md) for guidelines on adding a new library, and the [**Code of Conduct**](./CODE_OF_CONDUCT.md) for how we work together.
 
 ---
 
