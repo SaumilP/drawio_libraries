@@ -4,6 +4,7 @@
 [![License: MIT](https://img.shields.io/github/license/SaumilP/drawio_libraries)](./LICENSE)
 [![Last Commit](https://img.shields.io/github/last-commit/SaumilP/drawio_libraries)](https://github.com/SaumilP/drawio_libraries/commits/main)
 [![Issues](https://img.shields.io/github/issues/SaumilP/drawio_libraries)](https://github.com/SaumilP/drawio_libraries/issues)
+[![Gallery](https://img.shields.io/github/deployments/SaumilP/drawio_libraries/github-pages?label=gallery&logo=github)](https://saumilp.github.io/drawio_libraries/)
 
 Reusable **draw.io / diagrams.net libraries** for creating **clean, consistent, and professional architecture diagrams**.
 
