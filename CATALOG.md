@@ -159,6 +159,34 @@ A smaller (79-shape) supplementary Azure pack covering adjacent concepts not in 
 
 ---
 
+### Azure Services
+
+**Description**
+
+Original hand-drawn pictogram icons covering 28 of the most commonly diagrammed Azure services across the same seven categories as `aws-services.xml` and `gcp-services.xml` (Compute, Storage, Database, Networking, Security, Messaging & Integration, Observability), in a matching visual system with a distinct color palette. Reuses glyphs from the AWS/GCP sets where an Azure service is conceptually identical (a database is a cylinder, IAM/Entra ID is a key), and adds new glyphs for Azure-specific concepts (Blob Storage, App Service, Defender for Cloud, Event Hubs, Azure Advisor). Not a reproduction of Microsoft's trademarked icon artwork.
+
+**Concise notes**
+
+- Same visual system as `aws-services.xml` / `gcp-services.xml` for true multi-cloud consistency
+- Distinct color palette so all three libraries stay visually distinguishable
+- Complements `custom-azure.xml` (a different, non-original visual style) rather than replacing it
+
+---
+
+### Azure Services (3D)
+
+**Description**
+
+The same 28 icons and titles as `azure-services.xml`, restyled with a gradient-filled badge, a soft drop shadow, a glossy top highlight, and a subtle embossed glyph shadow for a raised, dimensional look — matching `aws-services-3d.xml` and `gcp-services-3d.xml`.
+
+**Concise notes**
+
+- Same service names/tags as `azure-services.xml` — pick one style per diagram
+- Gradient + shadow + gloss, no external image dependencies
+- Still original artwork, not Microsoft's trademarked icons
+
+---
+
 ### Buildings
 
 **Description**
@@ -282,6 +310,34 @@ Icons representing physical and virtual devices such as desktops, mobile devices
 - Endpoint representation
 - Useful in network diagrams
 - Non-backend focused
+
+---
+
+### Devops Observability
+
+**Description**
+
+Original hand-drawn pictogram icons covering 28 cloud-native DevOps and observability tools across seven categories: Containers & Orchestration (Docker, Helm, Istio, Containerd), CI/CD (Jenkins, GitHub Actions, GitLab CI, ArgoCD), Config Management & IaC (Ansible, Pulumi, Chef, Puppet), Messaging & Streaming (Kafka, RabbitMQ, NATS, ZeroMQ), Observability (Prometheus, Grafana, Elasticsearch, Jaeger), Networking & Proxy (Nginx, HAProxy, Envoy, Traefik), and Testing & Quality (SonarQube, Selenium, JMeter, Postman). Doesn't overlap with `hashicorp-draw-io.xml` (Terraform/Vault/Consul/Nomad/Packer/Vagrant) or `databases.xml` (Postgres/MySQL/MongoDB/Redis). Not a reproduction of any tool's trademarked logo.
+
+**Concise notes**
+
+- Fills a real gap: `developer-tools.xml` is heavily Microsoft/.NET-flavored and doesn't cover this ecosystem
+- Same visual system as the cloud provider libraries, own distinct color palette
+- Original glyphs represent each tool's function, not its actual brand mark
+
+---
+
+### Devops Observability (3D)
+
+**Description**
+
+The same 28 icons and titles as `devops-observability.xml`, restyled with a gradient-filled badge, a soft drop shadow, a glossy top highlight, and a subtle embossed glyph shadow for a raised, dimensional look.
+
+**Concise notes**
+
+- Same tool names/tags as `devops-observability.xml` — pick one style per diagram
+- Gradient + shadow + gloss, no external image dependencies
+- Still original artwork, not the tools' trademarked logos
 
 ---
 

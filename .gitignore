@@ -9,3 +9,4 @@ target/
 *.db
 *.mmd
 .DS_Store
+.$*.dtmp

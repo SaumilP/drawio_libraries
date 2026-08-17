@@ -52,6 +52,8 @@ Each library is independently usable and versioned.
 | **Aws Services** | `libraries/aws-services.xml` | ![](screenshots/aws-services.png) | Original pictogram icons for common AWS services, grouped and color-coded by category (compute, storage, database, networking, security, messaging, observability). Not AWS's trademarked icon artwork. |
 | **Aws Services (3D)** | `libraries/aws-services-3d.xml` | ![](screenshots/aws-services-3d.png) | Same 28 AWS service icons as `aws-services.xml`, rendered with a gradient fill, drop shadow, and glossy highlight for a raised, dimensional look. |
 | **Azure Additional Or Support** | `libraries/azure-additional-or-support.xml` | ![](screenshots/azure-additional-support.png) | Smaller (79-shape) supplementary Azure pack for adjacent concepts (automation, migration, containers, cloud adoption) not covered by Custom Azure. |
+| **Azure Services** | `libraries/azure-services.xml` | ![](screenshots/azure-services.png) | Original pictogram icons for common Azure services, in the same visual system as `aws-services.xml`/`gcp-services.xml` for 3-cloud consistency. Not Microsoft's trademarked icon artwork. |
+| **Azure Services (3D)** | `libraries/azure-services-3d.xml` | ![](screenshots/azure-services-3d.png) | Same 28 Azure service icons as `azure-services.xml`, rendered with a gradient fill, drop shadow, and glossy highlight. |
 | **Buildings** | `libraries/buildings.xml` | ![](screenshots/buildings.png) | Library contains building related shapes. |
 | **C4 Model** | `libraries/c4-model.xml` | ![](screenshots/c4-model.png) | Standard C4 notation shapes (Person, Software System, Container, Component, and boundaries), each in internal and external variants, for Context/Container/Component diagrams. |
 | **Chart Icons** | `libraries/chart-icons.xml` | ![](screenshots/chart-icons.png) | Different chart icons. |
@@ -61,6 +63,8 @@ Each library is independently usable and versioned.
 | **Delivery Icons** | `libraries/delivery-icons.xml` | ![](screenshots/delivery-icons.png) | Contains list of different delivery icons. |
 | **Developer Tools** | `libraries/developer-tools.xml` | ![](screenshots/developer-tools.png) | Contains list of developer tools. |
 | **Devices** | `libraries/devices.xml` | ![](screenshots/devices.png) | Contains list of Devices. |
+| **Devops Observability** | `libraries/devops-observability.xml` | ![](screenshots/devops-observability.png) | Original pictogram icons for 28 cloud-native DevOps/observability tools (Docker, Kubernetes tooling, CI/CD, IaC, messaging, metrics/logs/traces, proxies, testing) not covered by Developer Tools or the HashiCorp library. Not the tools' trademarked logos. |
+| **Devops Observability (3D)** | `libraries/devops-observability-3d.xml` | ![](screenshots/devops-observability-3d.png) | Same 28 tool icons as `devops-observability.xml`, rendered with a gradient fill, drop shadow, and glossy highlight. |
 | **Flat Color Icons** | `libraries/flat-color-icons.xml` | ![](screenshots/flat-color-icons.png) | Contains list of flat color icons. |
 | **Font Awesome** | `libraries/font-awesome.xml` | ![](screenshots/font-awesome.png) | Various Font Awesome icons. |
 | **Gcp Services** | `libraries/gcp-services.xml` | ![](screenshots/gcp-services.png) | Original pictogram icons for common Google Cloud services, grouped and color-coded by category (compute, storage, database, networking, security, messaging, observability). Not Google's trademarked icon artwork. |
@@ -105,6 +109,10 @@ Ready-to-open sample diagrams built from these libraries live in [`examples/`](.
 | Integration Patterns | [`examples/integration-patterns.drawio`](./examples/integration-patterns.drawio) |
 | Kubernetes Microservices | [`examples/kubernetes-microservices.drawio`](./examples/kubernetes-microservices.drawio) |
 | User Access Context | [`examples/user-access-context.drawio`](./examples/user-access-context.drawio) |
+| AWS Serverless Web Application | [`examples/aws-serverless-web-app.drawio`](./examples/aws-serverless-web-app.drawio) |
+| Azure Three-Tier Web Application | [`examples/azure-three-tier-web-app.drawio`](./examples/azure-three-tier-web-app.drawio) |
+| GCP Microservices on GKE | [`examples/gcp-microservices-gke.drawio`](./examples/gcp-microservices-gke.drawio) |
+| CI/CD GitOps Pipeline | [`examples/devops-cicd-gitops-pipeline.drawio`](./examples/devops-cicd-gitops-pipeline.drawio) |
 
 Open any file directly in draw.io / diagrams.net (**File → Open**) to see a complete diagram, not just individual shapes.
 
