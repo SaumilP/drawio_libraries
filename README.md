@@ -44,10 +44,13 @@ Each library is independently usable and versioned.
 | **Any Others** | `libraries/any-others.xml` | ![](screenshots/any-others.png) | Uncategorised shapes. |
 | **Apache Software Foundation Logos** | `libraries/apache-software-foundation-logos.xml` | ![](screenshots/apache-software-foundation.png) | Apache Software foundation shapes. |
 | **Apps And Logos** | `libraries/apps-and-logos.xml` | ![](screenshots/apps-and-logos.png) | Various apps and tools related logos. |
-| **Azure Additional Or Support** | `libraries/azure-additional-or-support.xml` | ![](screenshots/azure-additional-support.png) | Microsoft Azure logos. |
+| **Aws Services** | `libraries/aws-services.xml` | ![](screenshots/aws-services.png) | Original pictogram icons for common AWS services, grouped and color-coded by category (compute, storage, database, networking, security, messaging, observability). Not AWS's trademarked icon artwork. |
+| **Aws Services (3D)** | `libraries/aws-services-3d.xml` | ![](screenshots/aws-services-3d.png) | Same 28 AWS service icons as `aws-services.xml`, rendered with a gradient fill, drop shadow, and glossy highlight for a raised, dimensional look. |
+| **Azure Additional Or Support** | `libraries/azure-additional-or-support.xml` | ![](screenshots/azure-additional-support.png) | Smaller (79-shape) supplementary Azure pack for adjacent concepts (automation, migration, containers, cloud adoption) not covered by Custom Azure. |
 | **Buildings** | `libraries/buildings.xml` | ![](screenshots/buildings.png) | Library contains building related shapes. |
+| **C4 Model** | `libraries/c4-model.xml` | ![](screenshots/c4-model.png) | Standard C4 notation shapes (Person, Software System, Container, Component, and boundaries), each in internal and external variants, for Context/Container/Component diagrams. |
 | **Chart Icons** | `libraries/chart-icons.xml` | ![](screenshots/chart-icons.png) | Different chart icons. |
-| **Custom Azure** | `libraries/custom-azure.xml` | ![](screenshots/custom-azure.png) | Custom Microsoft Azure icons or tool logos for design. |
+| **Custom Azure** | `libraries/custom-azure.xml` | ![](screenshots/custom-azure.png) | Large (174-shape) core Azure service icon pack — the main Azure library; see Azure Additional Or Support for supplementary shapes. |
 | **Kubernetes** | `libraries/custom-kubernetes.xml` | ![](screenshots/custom-kubernetes.png) | Contains list of custom kubernetes icons. |
 | **Databases** | `libraries/databases.xml` | ![](screenshots/databases.png) | List of various database tools. |
 | **Delivery Icons** | `libraries/delivery-icons.xml` | ![](screenshots/delivery-icons.png) | Contains list of different delivery icons. |
@@ -55,9 +58,11 @@ Each library is independently usable and versioned.
 | **Devices** | `libraries/devices.xml` | ![](screenshots/devices.png) | Contains list of Devices. |
 | **Flat Color Icons** | `libraries/flat-color-icons.xml` | ![](screenshots/flat-color-icons.png) | Contains list of flat color icons. |
 | **Font Awesome** | `libraries/font-awesome.xml` | ![](screenshots/font-awesome.png) | Various Font Awesome icons. |
+| **Gcp Services** | `libraries/gcp-services.xml` | ![](screenshots/gcp-services.png) | Original pictogram icons for common Google Cloud services, grouped and color-coded by category (compute, storage, database, networking, security, messaging, observability). Not Google's trademarked icon artwork. |
+| **Gcp Services (3D)** | `libraries/gcp-services-3d.xml` | ![](screenshots/gcp-services-3d.png) | Same 28 GCP service icons as `gcp-services.xml`, rendered with a gradient fill, drop shadow, and glossy highlight for a raised, dimensional look. |
 | **Hashicorp Draw Io** | `libraries/hashicorp-draw-io.xml` | ![](screenshots/hashicorp-icons.png) | Contains different Hashicorp tool icons. |
-| **Integration Patterns** | `libraries/integration-patterns.xml` | ![](screenshots/integration-patterns.png) | Contains list of integration patterns related icons. |
-| **Integration** | `libraries/integration.xml` | ![](screenshots/integration.png) | Contains list of integrations related icons. |
+| **Integration Patterns** | `libraries/integration-patterns.xml` | ![](screenshots/integration-patterns.png) | 12 abstract Enterprise Integration Pattern icons (Aggregator, Router, Splitter, etc.) — conceptual, tool-agnostic notation, not tied to any specific product. |
+| **Integration** | `libraries/integration.xml` | ![](screenshots/integration.png) | Large (265-shape) icon pack for BizTalk Server and Azure integration tooling — adapters, protocols, Service Bus, Logic Apps, and related components. Product/tool-specific, unlike Integration Patterns. |
 | **Office365** | `libraries/office365.xml` | ![](screenshots/office365.png) | Contains list of Office365 related icons. |
 | **Osa Icons** | `libraries/osa-icons.xml` | ![](screenshots/osa-icons.png) | Contains various OSA icons. |
 | **Power Bi** | `libraries/power-bi.xml` | ![](screenshots/powerbi.png) | Contains list of Power-BI icons. |
@@ -82,6 +87,23 @@ Each library is independently usable and versioned.
 1. Download a release ZIP from **GitHub Releases**
 2. Extract the libraries
 3. Import one or more `.xml` files into draw.io
+
+---
+
+## 🧪 Examples
+
+Ready-to-open sample diagrams built from these libraries live in [`examples/`](./examples):
+
+| Example | File |
+|---|---|
+| CI/CD Pipeline | [`examples/ci-cd-pipeline.drawio`](./examples/ci-cd-pipeline.drawio) |
+| Integration Patterns | [`examples/integration-patterns.drawio`](./examples/integration-patterns.drawio) |
+| Kubernetes Microservices | [`examples/kubernetes-microservices.drawio`](./examples/kubernetes-microservices.drawio) |
+| User Access Context | [`examples/user-access-context.drawio`](./examples/user-access-context.drawio) |
+
+Open any file directly in draw.io / diagrams.net (**File → Open**) to see a complete diagram, not just individual shapes.
+
+For a deeper walkthrough of the Data Flow Diagram libraries specifically, see [`docs/dfd_doc.md`](./docs/dfd_doc.md).
 
 ---
 
@@ -143,7 +165,7 @@ Contributions are welcome, especially:
 ## 🛣 Roadmap
 
 - [X] Expand catalog previews
-- [ ] Add more C4-aligned symbols
+- [X] Add more C4-aligned symbols
 - [ ] Add example diagrams per library
 - [ ] Provide light/dark theme variants
 - [ ] Improve cross-library consistency

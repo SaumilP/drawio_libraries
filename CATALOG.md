@@ -115,16 +115,46 @@ A mixed set of application and tool logos intended to visually identify external
 - Useful for context diagrams
 - Avoid overuse in design-heavy views
 
+---
+
+### Aws Services
+
+**Description**
+
+Original hand-drawn pictogram icons covering 28 of the most commonly diagrammed AWS services across seven categories: Compute, Storage, Database, Networking, Security, Messaging & Integration, and Observability. Each icon is a simple, generic concept glyph (a cylinder for a database, a key for IAM, a bucket for S3, and so on) on a category-colored badge — not a reproduction of AWS's trademarked icon artwork. draw.io already ships the official AWS Architecture Icons built in (File → More Shapes → AWS) for that.
+
+**Concise notes**
+
+- Original glyphs and category color-coding, not vendor pictograms
+- Complements, not replaces, draw.io's built-in AWS icon set
+- Good for quick, semantic AWS architecture sketches
+
+---
+
+### Aws Services (3D)
+
+**Description**
+
+The same 28 icons and titles as `aws-services.xml`, restyled with a gradient-filled badge, a soft drop shadow, a glossy top highlight, and a subtle embossed glyph shadow for a raised, dimensional look. Pick this library instead of the flat one when a diagram calls for a more polished, presentation-style visual treatment.
+
+**Concise notes**
+
+- Same service names/tags as `aws-services.xml` — pick one style per diagram
+- Gradient + shadow + gloss, no external image dependencies
+- Still original artwork, not AWS's trademarked icons
+
+---
+
 ### Azure Additional Or Support
 
 **Description**
 
-Supplementary Microsoft Azure symbols that extend core Azure icon sets for more complete cloud diagrams.
+A smaller (79-shape) supplementary Azure pack covering adjacent concepts not in `custom-azure.xml` — automation, migration, containers, cloud adoption, and similar. Use alongside Custom Azure, not instead of it.
 
 **Concise notes**
 
 - Azure-specific extensions
-- Complements standard Azure icons
+- Complements `custom-azure.xml`, doesn't replace it
 - Use for clarity, not completeness
 
 ---
@@ -140,6 +170,20 @@ Physical building and location symbols used to represent offices, data centers, 
 - Physical context modeling
 - Useful in hybrid/on-prem diagrams
 - Non-technical elements
+
+---
+
+### C4 Model
+
+**Description**
+
+Standard C4 notation shapes for Context, Container, and Component diagrams: Person, Software System, Container, Container: Database, and Component, each with an internal and an external (gray) variant, plus dashed System Boundary and Container Boundary containers. Follows the conventional C4 color scheme (Simon Brown's open notation) — darker blue for higher-level elements, lighter blue for lower-level ones, gray for anything outside the system being described.
+
+**Concise notes**
+
+- Covers Context, Container, and Component diagram levels
+- Internal/external variants for every element type
+- Labels use the standard `Name` / `[Type: Technology]` two-line format — edit the placeholder text after dragging onto the canvas
 
 ---
 
@@ -161,11 +205,11 @@ Generic chart and visualization symbols for representing metrics, analytics, and
 
 **Description**
 
-Custom Azure-related icons and symbols tailored for specific design or documentation needs beyond standard icon packs.
+The main, large (174-shape) Azure service icon pack, covering most core Azure services. Start here for Azure diagrams; see Azure Additional Or Support for a smaller set of supplementary shapes.
 
 **Concise notes**
 
-- Non-standard Azure symbols
+- The primary Azure library in this repo
 - Useful for internal diagrams
 - Validate consistency before reuse
 
@@ -269,6 +313,34 @@ A collection of commonly recognized Font Awesome icons adapted for use in draw.i
 
 ---
 
+### Gcp Services
+
+**Description**
+
+Original hand-drawn pictogram icons covering 28 of the most commonly diagrammed Google Cloud services across seven categories: Compute, Storage, Database, Networking, Security, Messaging & Integration, and Observability. Where a GCP service is conceptually identical to its AWS counterpart in `aws-services.xml` (a database is a cylinder, IAM is a key, regardless of vendor), the same glyph is reused; services with a genuinely distinct character (Firestore, Bigtable, Spanner, Cloud Functions, etc.) get their own icon. Uses a distinct color palette from `aws-services.xml` so the two libraries stay visually distinguishable — not a reproduction of Google's trademarked icon artwork.
+
+**Concise notes**
+
+- Original glyphs and category color-coding, not vendor pictograms
+- Shares iconography with `aws-services.xml` where the underlying concept is the same
+- Good for quick, semantic GCP architecture sketches
+
+---
+
+### Gcp Services (3D)
+
+**Description**
+
+The same 28 icons and titles as `gcp-services.xml`, restyled with a gradient-filled badge, a soft drop shadow, a glossy top highlight, and a subtle embossed glyph shadow for a raised, dimensional look. Pick this library instead of the flat one when a diagram calls for a more polished, presentation-style visual treatment.
+
+**Concise notes**
+
+- Same service names/tags as `gcp-services.xml` — pick one style per diagram
+- Gradient + shadow + gloss, no external image dependencies
+- Still original artwork, not Google's trademarked icons
+
+---
+
 ### Hashicorp Icons
 
 **Description**
@@ -287,13 +359,13 @@ Icons representing HashiCorp tools, suitable for infrastructure, provisioning, a
 
 **Description**
 
-Icons representing common enterprise integration patterns, such as messaging, routing, and transformation.
+12 abstract Enterprise Integration Pattern (EIP) icons — Aggregator, Conditional, Content Enricher, Content Filter, Splitter, and similar — representing conceptual messaging/routing/transformation patterns, not any specific product. Not to be confused with `integration.xml`, which is product-specific.
 
 **Concise notes**
 
-- Pattern-oriented
-- Ideal for integration architecture
-- Technology-agnostic
+- Pattern-oriented, tool-agnostic
+- Ideal for integration architecture at the conceptual level
+- See `integration.xml` for BizTalk/Azure tooling icons instead
 
 ---
 
@@ -301,13 +373,13 @@ Icons representing common enterprise integration patterns, such as messaging, ro
 
 **Description**
 
-General integration-related symbols for illustrating system connections, adapters, and interaction points.
+A large (265-shape) icon pack for Microsoft BizTalk Server and Azure integration tooling — adapters (FTP, SFTP, HTTP, SQL, SAP, etc.), BizTalk Server components, Azure Service Bus, Logic Apps, and related infrastructure. Product/tool-specific, unlike the conceptual `integration-patterns.xml`.
 
 **Concise notes**
 
-- Broad integration concepts
-- Complements pattern library
-- Use for high-level flows
+- Tool and product-specific, not conceptual
+- Use for BizTalk/Azure integration architecture diagrams
+- See `integration-patterns.xml` for vendor-neutral EIP notation instead
 
 ---
 

@@ -8,3 +8,4 @@ target/
 *.ear
 *.db
 *.mmd
+.DS_Store
